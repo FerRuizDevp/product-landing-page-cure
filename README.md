@@ -2,6 +2,8 @@
 
 This is another project from of the modules of the certification from FreeCodeCamp. This is how the project looks like:
 
+Here is the link to the GitHub page: https://ferruizdevp.github.io/product-landing-page-cure/
+
 ![06-product landing-page](https://github.com/FerRuizDevp/product-landing-page-cure/assets/117100019/f8311fd5-285f-4b16-9648-9fba8b2078e5)
 
 ![06-product landing-page-2](https://github.com/FerRuizDevp/product-landing-page-cure/assets/117100019/1e60c91d-a16e-41ed-9517-ae5193b07f18)
