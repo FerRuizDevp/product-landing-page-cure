@@ -9,7 +9,7 @@
   "tags": [ ]
 }
 -->
-#💄Product Landing Page: CURE
+## 💄 Product Landing Page: CURE
 
 ## Description
 This is a project from one of the modules of the certification for Responsive Web Design from FreeCodeCamp. It's a static landing page for a cosmetic brand called CURE. 
@@ -17,7 +17,7 @@ This is a project from one of the modules of the certification for Responsive We
 ## This is how the project looks like:
 
 ## Preview
-![Project Preview]![06-product landing-page](https://github.com/FerRuizDevp/product-landing-page-cure/assets/117100019/f8311fd5-285f-4b16-9648-9fba8b2078e5)
+![06-product landing-page](https://github.com/FerRuizDevp/product-landing-page-cure/assets/117100019/f8311fd5-285f-4b16-9648-9fba8b2078e5)
 
 ![06-product landing-page-2](https://github.com/FerRuizDevp/product-landing-page-cure/assets/117100019/1e60c91d-a16e-41ed-9517-ae5193b07f18)
 
