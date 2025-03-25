@@ -23,8 +23,7 @@ This is a project from one of the modules of the certification for Responsive We
 
 ![06-product landing-page-4](https://github.com/FerRuizDevp/product-landing-page-cure/assets/117100019/752b9c00-c2b3-44a8-881f-fb84740fb91d)
 
-## Live Demo
-[Check it out on Netlify](https://cure-landing-page.netlify.app/)
+## Live Demo [Check it out on Netlify](https://cure-landing-page.netlify.app/)
 
 ## Here is the link to the GitHub page: [GitHub-Page](https://ferruizdevp.github.io/product-landing-page-cure/)
 
