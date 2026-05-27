@@ -4,7 +4,7 @@
   "description": "This is a project from one of the modules of the certification for Responsive Web Design from FreeCodeCamp. It's a static landing page for a cosmetic brand called CURE.", 
   "imagePreview": "https://github.com/FerRuizDevp/product-landing-page-cure/assets/117100019/f8311fd5-285f-4b16-9648-9fba8b2078e5",
   "githubLink": "https://github.com/FerRuizDevp/product-landing-page-cure",
-  "netlifyLink": "https://cure-landing-page.netlify.app/",
+  "liveLink": "https://cure-landing-page.netlify.app/",
   "tags": ["more-project", "landing-page", "HTML", "CSS", "static-design"]
 }
 -->
